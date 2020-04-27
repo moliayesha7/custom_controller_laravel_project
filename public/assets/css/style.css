@@ -1,0 +1,20 @@
+.main-section{
+	width:700px;
+	margin:100px auto 0px;
+}
+
+.single-student img{
+width:200px;
+height:200px;
+display:block;
+margin:auto;
+border-radius: 50%;
+}
+
+.single-student h2{
+	text-align: center;
+	font-family:sigmar one ;
+	font-size: 40px;
+	font-weight: normal;
+	color: red;
+}
